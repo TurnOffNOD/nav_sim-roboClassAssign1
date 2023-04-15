@@ -1,1 +1,2 @@
-use_dijkstra: False
+GlobalPlanner:
+        use_dijkstra: False
